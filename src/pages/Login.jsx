@@ -21,7 +21,7 @@ const Login = () => {
     };
 
     try {
-      const response = await axios.post(process.env.REACT_APP_LOGIN_URL, data, {
+      const response = await axios.post('https://carpool-backend-079r.onrender.com/auth/login', data, {
         headers: {
           'Content-Type': 'application/json',
         },

@@ -52,7 +52,7 @@ const Register = () => {
 
     try {
       // Send a POST request to your backend endpoint
-      const response = await axios.post(process.env.REACT_APP_SIGNUP_URL, data, {
+      const response = await axios.post('https://carpool-backend-079r.onrender.com/auth/signup', data, {
         headers: {
           'Content-Type': 'application/json',
         },
