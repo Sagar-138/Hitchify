@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/carpool-frontend/static/css/main.bc8a5f16.css",
+    "main.js": "/carpool-frontend/static/js/main.f85ea68b.js",
+    "static/media/remixicon.svg?t=1590207869815": "/carpool-frontend/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/carpool-frontend/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/carpool-frontend/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/slider-2.jpg": "/carpool-frontend/static/media/slider-2.7a5429677f6b9b85d22b.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/carpool-frontend/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/slider-3.jpg": "/carpool-frontend/static/media/slider-3.6a04f6167ebdc246ae58.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/carpool-frontend/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/nissan-offer.png": "/carpool-frontend/static/media/nissan-offer.6eddc86310b7cac538ae.png",
+    "static/media/toyota-offer-2.png": "/carpool-frontend/static/media/toyota-offer-2.9af2ea083a531ab33e4c.png",
+    "static/media/offer-toyota.png": "/carpool-frontend/static/media/offer-toyota.4b2435e447a7832d9f4a.png",
+    "static/media/mercedes-offer.png": "/carpool-frontend/static/media/mercedes-offer.d177a4fe9e2002ddb24d.png",
+    "static/media/slider-1.jpg": "/carpool-frontend/static/media/slider-1.dcc92209b1abd5f5fa90.jpg",
+    "static/media/drive.jpg": "/carpool-frontend/static/media/drive.0efd922e18cb90707ddc.jpg",
+    "static/media/bmw-offer.png": "/carpool-frontend/static/media/bmw-offer.e784b0741728e114bb6a.png",
+    "static/media/slick.svg": "/carpool-frontend/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/carpool-frontend/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/carpool-frontend/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/carpool-frontend/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/carpool-frontend/index.html",
+    "main.bc8a5f16.css.map": "/carpool-frontend/static/css/main.bc8a5f16.css.map",
+    "main.f85ea68b.js.map": "/carpool-frontend/static/js/main.f85ea68b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8a5f16.css",
+    "static/js/main.f85ea68b.js"
+  ]
+}
