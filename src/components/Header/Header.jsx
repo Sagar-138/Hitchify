@@ -39,8 +39,8 @@ const navLinks = [
 
 const Header = () => {
   const menuRef = useRef(null);
-  const [isLoginOpen, setIsLoginOpen] = useState(false);
-  const [isRegisterOpen, setIsRegisterOpen] = useState(false);
+  const [isLoginOpen ] = useState(false);
+  const [isRegisterOpen] = useState(false);
   const [isLogoutOpen, setIsLogoutOpen] = useState(false);
   
   const toggleLogout = () => {
