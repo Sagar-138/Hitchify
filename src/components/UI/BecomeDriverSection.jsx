@@ -1,16 +1,16 @@
 import React from "react";
 import "../../styles/become-driver.css";
 import { Container, Row, Col } from "reactstrap";
-import { useNavigate } from "react-router-dom"; // Import useNavigate from React Router
+// import { useNavigate } from "react-router-dom"; // Import useNavigate from React Router
 
 import driverImg from "../../assets/all-images/toyota-offer-2.png";
 
 const BecomeDriverSection = () => {
-  const navigate = useNavigate(); // Initialize useNavigate
+  // const navigate = useNavigate(); // Initialize useNavigate
 
-  const handlePublishRide = () => {
-    navigate("/PublishRidePage"); // Navigate to "PublishRidePage" when the button is clicked
-  };
+  // const handlePublishRide = () => {
+  //   navigate("/PublishRidePage"); // Navigate to "PublishRidePage" when the button is clicked
+  // };
 
   return (
     <section className="become__driver">

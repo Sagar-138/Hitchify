@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
-import PublishRidePage from './PublishRide';
+// import PublishRidePage from './PublishRide';
 
 const DriverPanel = () => {
   const [signupData, setSignupData] = useState({

@@ -5,7 +5,7 @@ import "../../styles/header.css";
 import PanicButton from "../PanicButton/PanicButton"; // Import the PanicButton component
 import Login from "../../pages/Login";
 import Register from "../../pages/Register";
-import PublishRidePage from "../../pages/PublishRide";
+// import PublishRidePage from "../../pages/PublishRide";
 
 const navLinks = [
   {
@@ -68,7 +68,7 @@ const Header = () => {
 
             <Col lg="6" md="6" sm="6">
               <div className="header__top__right d-flex align-items-center justify-content-end gap-3">
-                <marquee width="800">🚙`welcome to Hitchify.Apka anpa carpool.`  </marquee>
+                <marquee width="800">🚙`welcome to Hitchify.Apka anpa carpool.`</marquee>
               </div>
             </Col>
           </Row>

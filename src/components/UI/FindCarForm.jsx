@@ -3,7 +3,7 @@ import "../../styles/find-car-form.css";
 import { Form, FormGroup } from "reactstrap";
 import FetchSuggestions from '../mapservices/FetchSuggestions';
 // import FetchToken from "../mapservices/FetchToken";
-import { useNavigate } from "react-router-dom"; 
+// import { useNavigate } from "react-router-dom"; 
 import AvailableRidesPage from "../../pages/AvailableRidesPage";
 
 
@@ -16,7 +16,7 @@ const FindCarForm = () => {
   const [time, setTime] = useState('');
   const [showDestinationSuggestions, setShowDestinationSuggestions] = useState(true);
   const [showAvailableRides, setShowAvailableRides] = useState(false); // State to toggle between search form and available rides
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
 
   const handleSuggestionSelect = (selectedSuggestion, field) => {
     if (field === 'to') {
